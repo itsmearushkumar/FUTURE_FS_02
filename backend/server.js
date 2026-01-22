@@ -11,6 +11,8 @@ app.use(cors());
 app.use(express.json());
 
 app.use("/api/leads", leadRoutes);
+app.use("/api/auth", require("./routes/authRoutes"));
+
 
 // ✅ CONNECT FIRST, THEN START SERVER
 const startServer = async () => {
