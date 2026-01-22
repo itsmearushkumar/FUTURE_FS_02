@@ -147,7 +147,7 @@ mini-crm/
 ## ▶️ How to run the project
 
 /* 1️⃣ Clone the Repository */
-git clone <your-github-repository-url>
+git clone https://github.com/itsmearushkumar/FUTURE_FS_02.git
 cd mini-crm
 
 
