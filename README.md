@@ -142,6 +142,8 @@ mini-crm/
 ├── .gitignore
 └── README.md
 
+---
+
 ## ▶️ How to run the project
 
 /* 1️⃣ Clone the Repository */
