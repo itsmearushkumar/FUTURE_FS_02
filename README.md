@@ -148,7 +148,7 @@ mini-crm/
 
 /* 1️⃣ Clone the Repository */
 git clone https://github.com/itsmearushkumar/FUTURE_FS_02.git
-cd mini-crm
+cd FUTURE_FS_02
 
 
 /* 2️⃣ Run Backend Server */
